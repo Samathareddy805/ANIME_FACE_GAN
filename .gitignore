@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.env
+checkpoints/
+samples/
+results/
+runs/
+training.log
+.DS_Store
